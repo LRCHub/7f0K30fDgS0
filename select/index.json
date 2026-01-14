@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Cracker Island",
+  "base_artist": "Gorillaz",
+  "createdAt": "2026-01-14T03:41:40.582969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cracker Island (feat. Thundercat)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/01_Cracker_Island_(feat._Thundercat)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cracker Island (feat. Thundercat)",
+      "artist": "Gorillaz feat. Thundercat",
+      "has_synced": true,
+      "path": "select/02_Cracker_Island_(feat._Thundercat)_Gorillaz_feat._Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cracker Island",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/03_Cracker_Island_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cracker Island",
+      "artist": "Gorillaz feat. Thundercat",
+      "has_synced": true,
+      "path": "select/04_Cracker_Island_Gorillaz_feat._Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cracker Island (feat. Thundercat)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/05_Cracker_Island_(feat._Thundercat)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cracker Island (feat. Thundercat)",
+      "artist": "Gorillaz/Thundercat",
+      "has_synced": true,
+      "path": "select/06_Cracker_Island_(feat._Thundercat)_Gorillaz_Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cracker Island (feat. Thundercat)",
+      "artist": "Gorillaz, Thundercat",
+      "has_synced": true,
+      "path": "select/07_Cracker_Island_(feat._Thundercat)_Gorillaz,_Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cracker Island (ft. Thundercat)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/08_Cracker_Island_(ft._Thundercat)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cracker Island (feat. Thundercat)",
+      "artist": "Gorillaz, Thundercat",
+      "has_synced": true,
+      "path": "select/09_Cracker_Island_(feat._Thundercat)_Gorillaz,_Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cracker Island",
+      "artist": "Gorillaz & Thundercat",
+      "has_synced": true,
+      "path": "select/10_Cracker_Island_Gorillaz_&_Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cracker Island",
+      "artist": "Gorillaz feat. Thundercat",
+      "has_synced": true,
+      "path": "select/11_Cracker_Island_Gorillaz_feat._Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cracker Island",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/12_Cracker_Island_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cracker Island",
+      "artist": "Gorillaz feat. Thundercat",
+      "has_synced": true,
+      "path": "select/13_Cracker_Island_Gorillaz_feat._Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cracker Island (feat. Thundercat)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/14_Cracker_Island_(feat._Thundercat)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cracker Island (feat. Thundercat)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/15_Cracker_Island_(feat._Thundercat)_Gorillaz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cracker Island (feat. Thundercat)",
+      "artist": "Gorillaz, Thundercat",
+      "has_synced": false,
+      "path": "select/pl_01_Cracker_Island_(feat._Thundercat)_Gorillaz,_Thundercat.txt"
+    }
+  ]
+}
